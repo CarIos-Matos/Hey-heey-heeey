@@ -12,10 +12,19 @@ public class Heyheeyheey
   {
       System.out.println("test");
       System.out.println(test * test);
-      System.out.println(test * test);
+      System.out.println(54 * test);
+      System.out.println(54 * test);
+
 
       System.out.println("main ");
 
+      System.out.println(54 * test);
+
+
+      for (int i = 0; i < 10; i++)
+      {
+          System.out.println("hello");
+      }
 
   }
 }
