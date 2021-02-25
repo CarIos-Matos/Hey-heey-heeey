@@ -1,4 +1,4 @@
 public class NeueTestKlasse
 {
-    private String teest = "erneuter test für github";
+    private String teest = "veränderter text";
 }
