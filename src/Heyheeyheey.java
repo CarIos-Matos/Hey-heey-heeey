@@ -11,7 +11,7 @@ public class Heyheeyheey
   private void testmethod()
   {
       System.out.println("test");
-      System.out.println(test);
+      System.out.println(test * test);
 
   }
 }
