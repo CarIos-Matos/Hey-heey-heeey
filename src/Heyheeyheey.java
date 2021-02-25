@@ -12,6 +12,7 @@ public class Heyheeyheey
   {
       System.out.println("test");
       System.out.println(test * test);
+      System.out.println(test * test);
 
 
 
