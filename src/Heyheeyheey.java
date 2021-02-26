@@ -19,7 +19,7 @@ public class Heyheeyheey
       System.out.println("test");
       System.out.println(test * test);
       System.out.println(54 * test);
-      System.out.println(54 * test);
+      System.out.println(4 * test);
 
 
 
